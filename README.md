@@ -1,4 +1,1 @@
-# Prog-2
-
-
-As cenas de programação 2
+Escrevi o código dos exercicios no mesmo ficheiro e separei por comentários (não é a melhor prática, eu sei.)
